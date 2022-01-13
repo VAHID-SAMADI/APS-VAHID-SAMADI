@@ -45,22 +45,28 @@ const myName2 = "    Vahid      Samadi    ";
 console.log(myName2.toUpperCase());
 console.log(myName2.toLowerCase());
 console.log(myName2.trim());
-console.log(myName.replace('Vahid', 'VaHiD'));
+console.log(myName.replace("Vahid", "VaHiD"));
 console.log(myName.repeat(10));
 
 //----------------------------------
-const str = 'The quick brown fox jumps over the lazy dog.';
+const str = "The quick brown fox jumps over the lazy dog.";
 
-const words = str.split(' ');
+const words = str.split(" ");
 console.log(words[5]);
 console.log(words.slice("the"));
 
 // expected output: "fox"
 
-const chars = str.split('');
+const chars = str.split("");
 console.log(chars[8]);
 // expected output: "k"
 
 const strCopy = str.split();
 console.log(strCopy);
 // expected output: Array ["The quick brown fox jumps over the lazy dog."]
+//----------------------------------
+
+//CHECK YOUR UNDERSTANDING
+const skateBoard = "skateBoard";
+console.log(skateBoard.replace(skateBoard, "beard"));
+//---------------------------------
