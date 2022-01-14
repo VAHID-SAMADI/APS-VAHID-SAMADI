@@ -70,3 +70,9 @@ console.log(strCopy);
 const skateBoard = "skateBoard";
 console.log(skateBoard.replace(skateBoard, "beard"));
 //---------------------------------
+
+
+
+//===========================
+// finish day 2
+//===========================
