@@ -1,0 +1,1 @@
+from 18:30 to 23:59 in class 2 jobrani.
