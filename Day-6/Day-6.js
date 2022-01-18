@@ -18,8 +18,10 @@ array = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 //   console.log(arrayIterater);
 // }
 
-// const testText = "vahid"
+const testText = "vahid"
 
-// for (let textIterater in testText){
-//     console.log(testText[textIterater])
-// }
+for (let textIterater in testText){
+    console.log(testText[textIterater].toUpperCase())
+}
+
+
