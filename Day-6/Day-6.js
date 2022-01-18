@@ -44,3 +44,23 @@ array = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 // for (nameIterator of myName) {
 //   console.log(nameIterator);
 // }
+
+//Quiz
+// const benyAshaar = "In shabi ke migan shab nist, age shabe mese dishab nist";
+// for (let i = 0; i < 6; i++) {
+//   console.log(benyAshaar);
+// }
+
+//even number 0 to 20
+
+// let number ;
+// for ( number = 0; number < 20; number= number+ 2) {
+//   console.log(number);
+// }
+// console.log(number)
+
+//-----------------odd numbers--------------------
+// let number ;
+// for ( number = 1; number < 20; number+= 2) {
+//   console.log(number);
+// }
