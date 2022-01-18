@@ -31,7 +31,6 @@ array = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 // }
 // for(keyIterater in testObject){
 //     console.log(`${testObject[keyIterater]} => ${keyIterater}`)
-
 // }
 
 //for of
@@ -39,4 +38,9 @@ array = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 
 // for (iterater of names) {
 //   console.log(iterater);
+// }
+
+// const myName = "VaHiD";
+// for (nameIterator of myName) {
+//   console.log(nameIterator);
 // }
