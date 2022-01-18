@@ -33,3 +33,10 @@ array = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 //     console.log(`${testObject[keyIterater]} => ${keyIterater}`)
 
 // }
+
+//for of
+// const names = ["vahid", "anahid", "bani", "kiana", "beni"];
+
+// for (iterater of names) {
+//   console.log(iterater);
+// }
