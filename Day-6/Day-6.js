@@ -64,3 +64,84 @@ array = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 // for ( number = 1; number < 20; number+= 2) {
 //   console.log(number);
 // }
+
+//-----------------100 to 0  numbers--------------------
+// for (let number = 100; number >= 0; number--) {
+//   console.log(number);
+// }
+
+//-----------------50 to 0 by 10 numbers--------------------
+// for (let number = 50; number >= 0; number -= 10) {
+//   console.log(number);
+// }
+
+//-----------------25 to 0 by 5 numbers--------------------
+// for (let number = 25; number >= 0; number -= 5) {
+//   console.log(number);
+// }
+
+// for (let i = 0; i <= 20; i++) {
+//   if (i % 2 !== 0) {
+//     console.log(i);
+//   }
+// }
+
+const animals = [
+  "Aardvark",
+  "Aardwolf",
+  "African Elephant",
+  "African Tree Pangolin",
+  "Alligator",
+  "Alpaca",
+  "Anteater",
+  "Antelope",
+  "Ape(s)",
+  "Arabian Horse",
+  "Armadillo",
+  "Arthropod(s)",
+  "Asian Elephant",
+  "Aye-Aye",
+  "Baboon",
+  "Badger",
+  "Bandicoot",
+  "Bangle Tiger",
+  "Bat(s)",
+  "Bearded Dragon",
+  "Beaver",
+  "Beluga Whale",
+  "Bengal Tiger",
+  "Big-Horned Sheep",
+  "Billy Goat",
+  "Bird(s)",
+  "Bison",
+  "Black Bear",
+  "Black Footed Rhino",
+  "Black Howler Monkey",
+  "Black Rhino",
+  "Blacktip Reef Shark",
+  "Blue Shark",
+  "Blue Whale",
+  "Boar",
+  "Bob-Cat",
+  "Bonobo",
+  "Bottlenose Dolphin",
+  "Bottlenose Whale",
+  "Brown Bear",
+  "Buffalo",
+  "Bull",
+  "Bull frog",
+  "Caiman Lizard",
+  "Camel",
+  "Capuchin Monkey",
+  "Capybara",
+  "Caribou",
+  "Cat(s)",
+];
+
+// for (let i = 0; i < animals.length; i++) {
+//   console.log(animals[i].toLowerCase());
+// }
+
+for(let i = animals.length -1;i>=0;i--){
+    console.log(i + " : " + animals[i])
+}
