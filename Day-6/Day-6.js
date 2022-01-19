@@ -226,3 +226,17 @@
 //     console.log(`     ${para}`);
 //   });
 // });
+
+// let kiana = ["aaa", "ssss", "sss"];
+// let k = kiana.filter((lenght3) => {
+//   return lenght3.length > 3;
+// });
+// console.log(k);
+
+//reduce
+
+// const vahid = ["aa", "bb", "cc", "dd", "ee", "ff"];
+// let v = vahid.reduce((a, b) => {
+//   return `${a} : ${b}`;
+// });
+// console.log(v);
