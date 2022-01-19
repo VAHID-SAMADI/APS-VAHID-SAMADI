@@ -258,3 +258,26 @@
 // })
 
 // console.log(v)
+
+// let timeouuut = setTimeout(() => {
+//   console.log("hello");
+// }, 1000);
+
+// timeouuut();
+// let i = 0
+// let timeintervaal = setInterval(() => {
+//     i++
+//   console.log("hello" + " " + i);
+// }, 1000);
+
+// timeintervaal();
+
+// let vahid = [2, 4, 6,5];
+// let v = vahid.map((even) => {
+//   if (even % 2 === 0) {
+//     return true;
+//   } else {
+//     return false;
+//   }
+// });
+// console.log(v);
