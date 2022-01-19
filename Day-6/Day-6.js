@@ -203,7 +203,26 @@
 //   }
 // }
 
-const numbers = [1, 2, 3, 4 , 5, 6, 7, 8, 9];
-for(iterable of numbers){
-    console.log(iterable*iterable)
-}
+// const numbers = [1, 2, 3, 4 , 5, 6, 7, 8, 9];
+// for(iterable of numbers){
+//     console.log(iterable*iterable)
+// }
+
+// const numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11];
+// let num = numbers.forEach((numbers) => console.log(numbers));
+
+// const airplane = [
+//   ["motahare", "anahid", "amirmostafa"],
+//   ["maryam", "amir", "mina"],
+//   ["fatemeh", "fereshte", "kian"],
+//   ["kosar", "mohammad", "yousof"],
+//   ["mohsen", "hoseyn ", "shaden"],
+// ];
+// let myFunc = airplane.forEach((param) => {
+
+//   console.log(`Row : `);
+
+//   param.forEach((para) => {
+//     console.log(`     ${para}`);
+//   });
+// });
