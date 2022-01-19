@@ -249,3 +249,12 @@
 //   return upper === upper.toUpperCase();
 // });
 // console.log(v)
+
+//-------------------quiz trim function--------------------------
+// const vahid = ["AA", "  ", "   sss    ", "   sss   ", "EE", "FF"];
+
+// v = vahid.map((trimer)=>{
+//     return trimer.trim()
+// })
+
+// console.log(v)
