@@ -240,3 +240,12 @@
 //   return `${a} : ${b}`;
 // });
 // console.log(v);
+
+//some
+
+// const vahid = ["AA", "bb", "CC", "DDD", "EE", "FF"];
+
+// const v = vahid.every((upper) => {
+//   return upper === upper.toUpperCase();
+// });
+// console.log(v)
